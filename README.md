@@ -18,7 +18,7 @@ This project analyzes and improves upon the cloud migration strategy described i
 
 The following diagram illustrates the application's original on-premises architecture as described in the article.
 
-![On-Premises eCommerce Architecture](HW16-Befor.jpeg)
+![On-Premises eCommerce Architecture](HW16-Before.jpeg)
 
 ### Diagram Explanation & Key Issues:
 *   **Monolithic Architecture:** The Magento application, MariaDB database, and Elasticsearch cluster were tightly coupled, preventing independent scaling and increasing complexity.
